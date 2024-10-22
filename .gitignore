@@ -155,3 +155,6 @@ mlruns/
 pamelas_blog_input/
 pamelas_blog_results/
 pamelas_blog_results_dontknows/
+
+.idea/
+.venv_ai_rag_chat_evaluator/
